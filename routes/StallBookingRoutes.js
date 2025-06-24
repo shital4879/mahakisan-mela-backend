@@ -5,7 +5,7 @@ import {
   getStallBookingById,
   updateStallBooking,
   deleteStallBooking
-} from '../controllers/stallBookingController.js';
+} from '../controllers/StallBookingController.js';
 
 const router = express.Router();
 
